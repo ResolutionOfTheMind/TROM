@@ -18,6 +18,7 @@ tags
 !*.build
 
 !*.mp3
+!*.pdf
 
 !*.go
 !*.lua
