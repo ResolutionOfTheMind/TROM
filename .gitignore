@@ -9,26 +9,10 @@ tags
 
 #except the following files
 !.gitignore
-!*.cpp
-!*.hpp
-!*.c
-!*.h
-!*.inl
 
-!*.build
-
+!*.epub
 !*.mp3
 !*.pdf
-
-!*.go
-!*.lua
-
-!*.cs
-!*.csproj
-!*.resx
-
-!*.hlsl
-!*.fragment
 
 !*.md
 !*.jpg
