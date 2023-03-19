@@ -13,6 +13,7 @@ tags
 !*.epub
 !*.mp3
 !*.pdf
+!*.docx
 
 !*.md
 !*.jpg
